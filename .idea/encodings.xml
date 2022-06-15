@@ -21,6 +21,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/分割等和子集方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/前K个高频元素.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/前K个高频元素方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/动态规划/最长回文子串.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/合并二叉树.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/合并二叉树方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/和为K的子数组.java" charset="UTF-8" />
@@ -34,6 +35,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/把二叉搜索树转化为累加树方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/拓扑排序/外星文字典.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/数学/连续整数求和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/数学/连续整数求和方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/最大矩形.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/最大矩形方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/最短无序连续子数组.java" charset="UTF-8" />
@@ -44,6 +46,9 @@
     <file url="file://$PROJECT_DIR$/src/leecode/柱形图中最大的矩形方法3.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/根据身高重建队列.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/根据身高重建队列方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/模拟/z字型变换.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/模拟/z字形变换方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/模拟/z字形变换方法3.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/模拟/两数相加.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日温度.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日温度方法2.java" charset="UTF-8" />
