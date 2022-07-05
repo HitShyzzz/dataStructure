@@ -12,7 +12,13 @@ import java.util.Deque;
  * @Description:
  */
 public class 柱形图中最大的矩形方法3 {
-    public int largestRectangleArea(int[] heights) {
+    public static void main(String[] args) {
+        int  []heights={2,1,5,6,2,3};
+        int area = largestRectangleArea(heights);
+        System.out.println(area);
+
+    }
+    public static int largestRectangleArea(int[] heights) {
         int n = heights.length;
         int[] left = new int[n];
         int[] right = new int[n];
