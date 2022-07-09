@@ -1,4 +1,4 @@
-package leecode.˫ָ��;
+package leecode.双指针;
 
 /**
  * Created with IntelliJ IDEA.
