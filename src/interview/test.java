@@ -1,6 +1,8 @@
 package interview;
 
+import java.util.Iterator;
 import java.util.Scanner;
+import java.util.TreeSet;
 
 /**
  * Created with IntelliJ IDEA.
@@ -11,15 +13,13 @@ import java.util.Scanner;
  */
 public class test {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        while (in.hasNext()) {
-            int sum = 0;
-            String[] s = in.nextLine().split(" ");
-            for (int i = 0; i < s.length; i++) {
-                int num = Integer.parseInt(s[i]);
-                sum += num;
-            }
-            System.out.println(sum);
+        TreeSet<Integer>set=new TreeSet<>();
+        set.add(3);
+        set.add(10);
+        set.add(1);
+        Iterator<Integer>iterator= set.descendingIterator();
+        while (iterator.hasNext()){
+            System.out.print(iterator.next()+" ");
         }
     }
 }
