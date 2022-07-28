@@ -13,13 +13,11 @@ import java.util.TreeSet;
  */
 public class test {
     public static void main(String[] args) {
-        TreeSet<Integer>set=new TreeSet<>();
-        set.add(3);
-        set.add(10);
-        set.add(1);
-        Iterator<Integer>iterator= set.descendingIterator();
-        while (iterator.hasNext()){
-            System.out.print(iterator.next()+" ");
-        }
+
+    }
+
+    private void get(){
+        int a=1;
+        super.hashCode();
     }
 }

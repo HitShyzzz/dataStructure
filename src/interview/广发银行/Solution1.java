@@ -1,4 +1,4 @@
-package interview;
+package interview.广发银行;
 
 /**
  * Created with IntelliJ IDEA.
