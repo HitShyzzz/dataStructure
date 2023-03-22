@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="3.22 commit 6">
-      <change afterPath="$PROJECT_DIR$/.idea/dataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="3.22 commit 8">
+      <change beforePath="$PROJECT_DIR$/src/solution/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1391,14 +1386,7 @@
       <workItem from="1679450848911" duration="7174000" />
       <workItem from="1679467384528" duration="19396000" />
       <workItem from="1679503273425" duration="560000" />
-      <workItem from="1679503852173" duration="325000" />
-    </task>
-    <task id="LOCAL-00022" summary="7.3">
-      <created>1656928692254</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1656928692254</updated>
+      <workItem from="1679503852173" duration="631000" />
     </task>
     <task id="LOCAL-00023" summary="7.4">
       <created>1656990243788</created>
@@ -1736,7 +1724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679499668356</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="3.22 commit 8">
+      <created>1679504239827</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1679504239827</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1770,7 +1765,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/src/leecode/剑指offer" />
     </ignored-roots>
-    <MESSAGE value="8.31" />
     <MESSAGE value="10.12" />
     <MESSAGE value="11.14" />
     <MESSAGE value="11.16" />
@@ -1795,7 +1789,8 @@
     <MESSAGE value="3.22 commit 4" />
     <MESSAGE value="3.22 commit 5" />
     <MESSAGE value="3.22 commit 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.22 commit 6" />
+    <MESSAGE value="3.22 commit 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.22 commit 8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
