@@ -1,0 +1,17 @@
+Index: src/solution/Hello.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package solution;\r\n\r\n/**\r\n * Created with IntelliJ IDEA.\r\n *\r\n * @Author: shy\r\n * @Date: 2023/03/23/0:45\r\n * @Description:\r\n */\r\npublic class Hello {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world!\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/solution/Hello.java b/src/solution/Hello.java
+--- a/src/solution/Hello.java	(revision 632b254d614a55bfe60dde2a91b11ec255886854)
++++ b/src/solution/Hello.java	(date 1679504418239)
+@@ -10,5 +10,6 @@
+ public class Hello {
+     public static void main(String[] args) {
+         System.out.println("Hello world!");
++        System.out.println("shy");
+     }
+ }
