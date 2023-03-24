@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="3.2 commit 9">
-      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树中和为某一值的路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution/HelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/CBTInserter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/RecentCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树剪枝.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树最底层最左侧的值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树最底层最左侧的值方法2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树每层的最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树的右侧视图.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/从根节点到叶结点的路径数字之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/向下的路径结点之和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,27 +65,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "F:/codes/dataStructure/src/leecode/剑指offer突击版",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/codes/dataStructure/src/leecode/剑指offer突击版&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="solution.test" />
@@ -91,11 +97,11 @@
       <recent name="D:\tool\IntelliJ IDEA 2022.1\dataStructure\src\leecode\剑指offer" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leecode.剑指offer突击版" />
       <recent name="leecode.剑指offer" />
       <recent name="leecode.动态规划" />
       <recent name="leecode.每日一题" />
       <recent name="interview.字节" />
-      <recent name="leecode.链表" />
     </key>
   </component>
   <component name="RunManager" selected="Application.LockTest">
@@ -157,110 +163,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="solution.死锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长有效括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.字符串模拟.最长有效括号" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.字符串模拟.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="赢得比赛需要的最少训练时长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.赢得比赛需要的最少训练时长" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组的均值分割" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.数学.数组的均值分割" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.数学.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="旋转矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.模拟.旋转矩阵" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.模拟.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩形中的最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.矩形中的最大矩形" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="仅执行一次字符串交换能否使得两个字符串相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.仅执行一次字符串交换能否使得两个字符串相等" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="编辑距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.动态规划.编辑距离" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="验证栈序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.四399.验证栈序列" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.四399.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,6 +300,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最长有效括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.字符串模拟.最长有效括号" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.字符串模拟.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="雀魂启动" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.字节.雀魂启动" />
       <module name="dataStructure" />
@@ -521,6 +436,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.字节.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="赢得比赛需要的最少训练时长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.赢得比赛需要的最少训练时长" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -658,6 +586,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="数组的均值分割" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.数学.数组的均值分割" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.数学.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="字符串中第二大的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.数学.字符串中第二大的数字" />
       <module name="dataStructure" />
@@ -781,6 +722,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="旋转矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.模拟.旋转矩阵" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.模拟.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -918,6 +872,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="矩形中的最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.矩形中的最大矩形" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="验证栈序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.验证栈序列" />
       <module name="dataStructure" />
@@ -1041,6 +1008,45 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="仅执行一次字符串交换能否使得两个字符串相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.仅执行一次字符串交换能否使得两个字符串相等" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="编辑距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.动态规划.编辑距离" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="验证栈序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.四399.验证栈序列" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.四399.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1370,7 +1376,8 @@
       <workItem from="1679503852173" duration="1009000" />
       <workItem from="1679539939254" duration="2934000" />
       <workItem from="1679561355997" duration="4923000" />
-      <workItem from="1679619868540" duration="1785000" />
+      <workItem from="1679619868540" duration="4627000" />
+      <workItem from="1679640139034" duration="7391000" />
     </task>
     <task id="LOCAL-00024" summary="7.5">
       <created>1657093375181</created>
