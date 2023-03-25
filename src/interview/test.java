@@ -10,7 +10,14 @@ package interview;
 public class test {
 
     public static void main(String[] args) {
-        String s = "int m = ";
-        System.out.println(s.length());
+        Integer a = 127;
+        Integer b = 127;
+        String c = "word";
+        String d = "word";
+        test t1 = new test();
+        test t2 = new test();
+        System.out.println(a == b);
+        System.out.println(c == d);
+        System.out.println(t1 == t2);
     }
 }

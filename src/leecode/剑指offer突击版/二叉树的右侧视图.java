@@ -1,4 +1,4 @@
-package leecode.½£Ö¸offerÍ»»÷°æ;
+package leecode.å‰‘æŒ‡offerçªå‡»ç‰ˆ;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -12,7 +12,7 @@ import java.util.Queue;
  * @Date: 2023/03/24/15:59
  * @Description:
  */
-public class ¶ş²æÊ÷µÄÓÒ²àÊÓÍ¼ {
+public class äºŒå‰æ ‘çš„å³ä¾§è§†å›¾ {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         if (root == null) {

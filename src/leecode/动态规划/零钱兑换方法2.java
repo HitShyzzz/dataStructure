@@ -11,15 +11,15 @@ import java.util.Map;
  * @Description:
  */
 public class 零钱兑换方法2 {
+    // 记录兑换amount的钱需要的最少硬币数
+    private static Map<Integer, Integer> map = new HashMap<>();
+
     public static void main(String[] args) {
         int[] coins = {1, 2, 5};
         int amount = 100;
         int i = coinChange(coins, amount);
         System.out.println(i);
     }
-
-    // 记录兑换amount的钱需要的最少硬币数
-    private static Map<Integer, Integer> map = new HashMap<>();
 
     /**
      * 记忆化搜索，递归的去找答案，同时用hashMap来记录之前已经计算过的答案，来优化时间复杂度！

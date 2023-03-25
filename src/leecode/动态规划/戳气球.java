@@ -12,14 +12,14 @@ import java.util.Map;
  * @Description:
  */
 public class 戳气球 {
+    // 记忆化搜索，利用solve数组来记录中间结果，避免重复计算！
+    private static int[][] solve;
+
     public static void main(String[] args) {
         int[] nums = {8, 2, 6, 8, 9, 8, 1, 4, 1, 5, 3, 0, 7, 7, 0, 4, 2, 2, 5};
         int i = maxCoins(nums);
         System.out.println(i);
     }
-
-    // 记忆化搜索，利用solve数组来记录中间结果，避免重复计算！
-    private static int[][] solve;
 
     /**
      * O(T)=O(n^3),总共有n^2个区间，每个区间需要填充n次，总共时间复杂度就是O(n^3);

@@ -24,7 +24,8 @@ public class 编辑距离 {
      * 对于边界：dp[i][0]=i;表示把word1前i个字符替换成空串，需要i次操作，同理dp[0][j]=j;
      * O(T)=O(mn);
      * O(S)=O(mn);
-     *b
+     * b
+     *
      * @param word1
      * @param word2
      * @return

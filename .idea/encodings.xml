@@ -12,6 +12,11 @@
     <file url="file://$PROJECT_DIR$/src/interview/TPLINK/寻找数组的中心下标.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/TPLINK/数组中出现次数超过一半的数字.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/TreadPoolConfigTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/meituan/Main1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/meituan/Main2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/meituan/Main3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/meituan/Main4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/meituan/Main5.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/test.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/test1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/test2.java" charset="UTF-8" />
@@ -61,6 +66,7 @@
     <file url="file://$PROJECT_DIR$/src/interview/特斯拉/Main1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/特斯拉/复原IP.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/特斯拉/执行一次字符串交换能否使得字符串相等.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/特斯拉/添加5.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/百度/Main1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/百度/Main2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/百度/Main3.java" charset="UTF-8" />
@@ -82,6 +88,8 @@
     <file url="file://$PROJECT_DIR$/src/interview/美团/多线程生产者消费者模式/Consumer.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/美团/多线程生产者消费者模式/Producer.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/美团/多线程生产者消费者模式/Shop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/美团/数列前m项和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/美团/水仙花数.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/美团/淘汰分数.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/美团/线程交替打印.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/美团/翻牌游戏.java" charset="UTF-8" />
@@ -204,6 +212,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/MovingAverage.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/MovingAverageTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/RandomizedSet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/TreeNode.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/不含重复子串的最长子字符串.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/不含重复子串的最长子字符串方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/两个链表的第一个重合点.java" charset="UTF-8" />
@@ -260,13 +269,21 @@
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/零和1个数相同的子数组.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/CBTInserter.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/RecentCounter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/TreeNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉搜索树中两个结点之和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉搜索树的中序后继.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉搜索树的中序后继方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树中和为某一值的路径.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树剪枝.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树最底层最左侧的值.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树最底层最左侧的值方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树每层的最大值.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树的右侧视图.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/从根节点到叶结点的路径数字之和.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/向下的路径结点之和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/展平二叉搜索树.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/所有大于等于结点的值之和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/节点之和最大的路径.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/乘机最大子数组.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/买卖股票的最佳世家含冷却期方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/买卖股票的最佳时机含冷冻期.java" charset="UTF-8" />
@@ -302,6 +319,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/跳跃游戏II方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/跳跃游戏方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/通配符匹配.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/动态规划/零一背包.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/零钱兑换.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/动态规划/零钱兑换方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/双指针/ListNode.java" charset="UTF-8" />
@@ -380,6 +398,8 @@
     <file url="file://$PROJECT_DIR$/src/leecode/数学/数组的均值分割.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/数学/旋转图像.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/数学/旋转图像方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/数学/最少操作次数使得数组元素全不相同.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/数学/最少操作次数使得数组元素相等.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/数学/最短无序连续子数组.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/数学/最短无序连续子数组方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/数学/根据身高重建队列.java" charset="UTF-8" />
