@@ -20,6 +20,9 @@
     <file url="file://$PROJECT_DIR$/src/interview/test.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/test1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/test2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/上交所/LuckyNumber.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/上交所/Main1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/上交所/Main2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/中兴/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/中兴/Main2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/中国移动/Main.java" charset="UTF-8" />
@@ -268,6 +271,8 @@
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/链表倒数第K个节点方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer/零和1个数相同的子数组.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/CBTInserter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/MyCalendar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/MyCalendarTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/RecentCounter.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/TreeNode.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉搜索树中两个结点之和.java" charset="UTF-8" />
@@ -280,6 +285,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树每层的最大值.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/二叉树的右侧视图.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/从根节点到叶结点的路径数字之和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/值和给定下标都在给定的范围内.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/向下的路径结点之和.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/展平二叉搜索树.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/所有大于等于结点的值之和.java" charset="UTF-8" />
@@ -370,8 +376,12 @@
     <file url="file://$PROJECT_DIR$/src/leecode/拓扑排序/课程表.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/拓扑排序/课程表II.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/排序/BubbleSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/排序/KthLargest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/排序/KthLargest1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/排序/ListNode.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/排序/QuickSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/排序/出现频率最高的k个数字.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/排序/出现频率最高的k个数字方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/排序/前K个高频元素.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/排序/前K个高频元素方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/排序/前K个高频元素方法3.java" charset="UTF-8" />
@@ -493,6 +503,8 @@
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/合并相似的物品.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/和有限的最长子序列.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/和有限的最长子序列方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/每日一题/和相等的子数组.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/每日一题/和相等的子数组方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/回文数.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/回文数方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/子数组的最小值之和.java" charset="UTF-8" />
@@ -532,7 +544,11 @@
     <file url="file://$PROJECT_DIR$/src/leecode/目标和.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/目标和方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/目标和方法3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/贪心/主持人调度一.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/贪心/主持人调度二.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/贪心/分糖果.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/贪心/卡车上的最大单元数.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/贪心/合并区间.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/路径总和III.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/leecode/路径总和III方法2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/leecode/链表/ListNode.java" charset="UTF-8" />
