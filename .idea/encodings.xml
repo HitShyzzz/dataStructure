@@ -48,11 +48,20 @@
     <file url="file://$PROJECT_DIR$/src/interview/字节/特征提取方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/字节/雀魂启动.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/字节/雀魂启动方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/BubbleSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/BubbleSort1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/InsertSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/LRUCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/QuickSort.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/广发银行/Solution.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/广发银行/Solution1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/微软/Main2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/微软/Main3.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/手写单例模式.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/携程/Main1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/携程/Main2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/携程/Main3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/携程/Main4.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/昆仑万维/Main1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/昆仑万维/Main2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/昆仑万维/Main3.java" charset="UTF-8" />
@@ -641,6 +650,13 @@
     <file url="file://$PROJECT_DIR$/src/solution/泛型/Pair.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/泛型/PairTest1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/泛型/泛型类.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/DIYDiscardPolicy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/DiscardPolicy1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/FixedThreadPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/SingleThreadExecutor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/SingleThreadScheduledExecutor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/ThreadPoolExecutor1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/线程池/workStealingPool.java" charset="UTF-8" />
     <file url="jar://$PROJECT_DIR$/../../jdk-18/lib/src.zip!/java.base/java/lang/ThreadLocal.java" charset="UTF-8" />
     <file url="jar://$PROJECT_DIR$/../../jdk-18/lib/src.zip!/java.base/java/util/LinkedHashMap.java" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
