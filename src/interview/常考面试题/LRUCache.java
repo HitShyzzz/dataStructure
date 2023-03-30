@@ -31,6 +31,7 @@ public class LRUCache {
     }
 
     public void addToTail(Dnode node) {
+        // 这四步要记清楚
         node.next = tail;
         tail.prev.next = node;
         node.prev = tail.prev;
@@ -62,6 +63,7 @@ public class LRUCache {
                 // 要删除的结点
                 Dnode node = head.next;
                 deleteNode(node);
+                // map中的key要记得清除！
                 map.remove(node.key);
             }
             Dnode newNode = new Dnode(key, value);

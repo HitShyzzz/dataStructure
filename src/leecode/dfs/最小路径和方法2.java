@@ -10,7 +10,7 @@ package leecode.dfs;
 public class 最小路径和方法2 {
     public static void main(String[] args) {
         int[][] grid = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
-        //int[][]grid={{1,2,3},{4,5,6}};
+        // int[][]grid={{1,2,3},{4,5,6}};
         int pathSum = minPathSum(grid);
         System.out.println(pathSum);
     }
