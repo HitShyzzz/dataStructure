@@ -1,4 +1,4 @@
-package interview.常考面试题;
+package interview.甯歌�冮潰璇曢;
 
 /**
  * Created with IntelliJ IDEA.
@@ -7,9 +7,9 @@ package interview.常考面试题;
  * @Date: 2023/04/02/11:03
  * @Description:
  */
-public class 重排链表 {
+public class 閲嶆帓閾捐〃 {
     public void reorderList(ListNode head) {
-        // 1.找到链表中点
+        // 1.鎵惧埌閾捐〃涓偣
         ListNode slow = head;
         ListNode fast = head.next;
         while (fast != null) {
@@ -24,7 +24,7 @@ public class 重排链表 {
         ListNode newHead = reverse(head2);
         merge(head, newHead);
     }
-    // 2.反转右半部分链表
+    // 2.鍙嶈浆鍙冲崐閮ㄥ垎閾捐〃
     public ListNode reverse(ListNode head) {
         if (head == null) {
             return null;
@@ -40,7 +40,7 @@ public class 重排链表 {
         return pre;
     }
 
-    // 3.合并链表
+    // 3.鍚堝苟閾捐〃
     public ListNode merge(ListNode head1, ListNode head2) {
         ListNode l1 = head1;
         ListNode l2 = head2;
