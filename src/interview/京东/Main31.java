@@ -1,5 +1,6 @@
 package interview.京东;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
@@ -11,6 +12,8 @@ import java.util.Scanner;
  */
 public class Main31 {
     public static void main(String[] args) {
+//        long l = jieCheng(50);
+//        System.out.println(l);
         Scanner in = new Scanner(System.in);
         String s = in.nextLine();
         int[] counts = new int[4];

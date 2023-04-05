@@ -58,10 +58,20 @@
     <file url="file://$PROJECT_DIR$/src/interview/字节/雀魂启动方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/BubbleSort.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/BubbleSort1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/Consumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/ConsumerTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/HeapSort.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/InsertSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/InsertSort1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/LRUCache.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/ListNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/MergedSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/Producer.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/QuickSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/QuickSort1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/SelectionSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/Shop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interview/常考面试题/两个栈实现队列.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/搜索旋转排序数组.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/滑动窗口最大值.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/interview/常考面试题/连续子数组最大和.java" charset="UTF-8" />
@@ -398,9 +408,12 @@
     <file url="file://$PROJECT_DIR$/src/leecode/字符串模拟/自定义字符串排序.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/字符串模拟/自定义字符串排序方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/字符串模拟/验证IP地址.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/并查集/冗余连接.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/并查集/寻找图中是否存在路径.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/并查集/寻找图中是否存在路径方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/并查集/寻找图中是否存在路径方法3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/并查集/相似字符串.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/并查集/省份数量.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/并查集/除法求值.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/并查集/除法求值方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/找到所有数组中消失的数字.java" charset="UTF-8" />
