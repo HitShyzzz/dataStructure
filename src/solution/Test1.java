@@ -14,6 +14,8 @@ public class Test1 {
 
     public static void main(String[] args) {
         String s = "cba";
+        int i = s.indexOf(s);
+        System.out.println(i);
         char[] c = s.toCharArray();
         Arrays.sort(c);
         String str = String.valueOf(c);
