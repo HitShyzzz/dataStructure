@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="3.2 commit 9">
-      <change afterPath="$PROJECT_DIR$/src/interview/小米/MyIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/dfs/最长递增路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/并查集/计算除法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/拓扑排序/外星文字典方法2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/拓扑排序/课程顺序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/拓扑排序/重建序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/统计共同度过的日子数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/bfs/开密码锁.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/所有路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/剑指offer突击版/所有路径方法2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/dataStructure/solution/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/dataStructure/solution/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leecode/dfs/最长递增路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leecode/dfs/最长递增路径.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +91,14 @@
       <recent name="D:\tool\IntelliJ IDEA 2022.1\dataStructure\src\leecode\剑指offer" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leecode.剑指offer突击版" />
       <recent name="leecode.拓扑排序" />
       <recent name="interview.常考面试题" />
       <recent name="interview.京东" />
-      <recent name="leecode.剑指offer突击版" />
       <recent name="solution.死锁" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.最长递增路径">
+  <component name="RunManager" selected="Application.Main1">
     <configuration name="最长递增路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.dfs.最长递增路径" />
       <module name="dataStructure" />
@@ -117,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.常考面试题.HeapSort" />
+    <configuration name="开密码锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.bfs.开密码锁" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.常考面试题.*" />
+          <option name="PATTERN" value="leecode.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergedSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.常考面试题.MergedSort" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.京东.Main1" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.常考面试题.*" />
+          <option name="PATTERN" value="interview.京东.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,110 +157,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.recur.组合总和" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.recur.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="寻找数组的中心下标" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.TPLINK.寻找数组的中心下标" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.TPLINK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="全局倒置与局部倒置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.栈.全局倒置与局部倒置" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.栈.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="雀魂启动" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.字节.雀魂启动" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.字节.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最多删除一个字符得到回文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.最多删除一个字符得到回文" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="含有所有字符的最短子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.含有所有字符的最短子串" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="验证栈序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.四399.验证栈序列" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.四399.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="括号的分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.栈.括号的分数" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.栈.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,6 +294,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.recur.组合总和" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.recur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="有效的回文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.有效的回文" />
       <module name="dataStructure" />
@@ -526,6 +430,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找数组的中心下标" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.TPLINK.寻找数组的中心下标" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.TPLINK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -663,6 +580,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="全局倒置与局部倒置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.栈.全局倒置与局部倒置" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.整数反转" />
       <module name="dataStructure" />
@@ -786,6 +716,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.模拟.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="雀魂启动" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.字节.雀魂启动" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.字节.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -923,6 +866,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最多删除一个字符得到回文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.最多删除一个字符得到回文" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="翻牌游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.美团.翻牌游戏" />
       <module name="dataStructure" />
@@ -936,20 +892,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="含有所有字符的最短子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.含有所有字符的最短子串" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="验证栈序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.四399.验证栈序列" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.四399.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="括号的分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.栈.括号的分数" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.开密码锁" />
       <item itemvalue="Application.最长递增路径" />
       <item itemvalue="Application.MyIndexOf" />
       <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.HeapSort" />
-      <item itemvalue="Application.MergedSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.开密码锁" />
         <item itemvalue="Application.最长递增路径" />
         <item itemvalue="Application.MyIndexOf" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.MergedSort" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -1274,7 +1269,8 @@
       <workItem from="1680763416862" duration="3548000" />
       <workItem from="1681693590774" duration="6887000" />
       <workItem from="1681783056432" duration="8017000" />
-      <workItem from="1681866992965" duration="4502000" />
+      <workItem from="1681866992965" duration="5116000" />
+      <workItem from="1681951960472" duration="7839000" />
     </task>
     <task id="LOCAL-00024" summary="7.5">
       <created>1657093375181</created>

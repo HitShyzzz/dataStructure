@@ -140,6 +140,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/bfs/二叉树的层序遍历.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/bfs/二叉树的最大深度方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/bfs/岛屿数量方法2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/bfs/开密码锁.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/bfs/按之字形顺序打印二叉树.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/bfs/按之字形顺序打印二叉树方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/bfs/获取所有钥匙的最短路径.java" charset="UTF-8" />
@@ -329,6 +330,8 @@
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/向下的路径结点之和.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/展平二叉搜索树.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/所有大于等于结点的值之和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/所有路径.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/所有路径方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/替换单词.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/替换单词方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/剑指offer突击版/最大的异或.java" charset="UTF-8" />
