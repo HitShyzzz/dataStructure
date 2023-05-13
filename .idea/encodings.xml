@@ -151,6 +151,8 @@
     <file url="file://$PROJECT_DIR$/src/leecode/dfs/二分图.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/dfs/单词搜索.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/dfs/岛屿数量.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/dfs/岛屿的最大面积.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/dfs/岛屿的最大面积方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/dfs/最小路径和.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/dfs/最小路径和方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/dfs/最长同值路径.java" charset="UTF-8" />
@@ -652,6 +654,8 @@
     <file url="file://$PROJECT_DIR$/src/solution/jvm/Car.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/jvm/Demo03.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/jvm/Hello.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/streams/CountLongWords.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/streams/CreatingStreams.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/ArrayListTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/BoundedQueue.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/ClassLoaderTest.java" charset="UTF-8" />
@@ -671,6 +675,7 @@
     <file url="file://$PROJECT_DIR$/src/solution/test/ShutDown.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/SleepUtils.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/SqartTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/test/TabNineTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/TestPerson.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/TestThread.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/test/TestThread1.java" charset="UTF-8" />
