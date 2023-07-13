@@ -551,6 +551,8 @@
     <file url="file://$PROJECT_DIR$/src/leecode/模拟/螺旋矩阵.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/模拟/设计Goal解析器.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/模拟/链表相加2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/每日一题/下降路径最小和.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/每日一题/下降路径最小和方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/二进制数转字符串.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/二进制矩阵中的特殊位置.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/交替合并字符串.java" charset="UTF-8" />
@@ -720,6 +722,9 @@
     <file url="file://$PROJECT_DIR$/src/solution/线程池/SingleThreadScheduledExecutor.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/线程池/ThreadPoolExecutor1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/线程池/workStealingPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/随机算法实验/Cholesky.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/随机算法实验/Q2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/随机算法实验/高斯列主元法.java" charset="UTF-8" />
     <file url="jar://D:/tool/jdk-18/lib/src.zip!/java.base/java/util/Map.java" charset="UTF-8" />
     <file url="jar://$PROJECT_DIR$/../../jdk-18/lib/src.zip!/java.base/java/lang/ThreadLocal.java" charset="UTF-8" />
     <file url="jar://$PROJECT_DIR$/../../jdk-18/lib/src.zip!/java.base/java/util/LinkedHashMap.java" charset="UTF-8" />
