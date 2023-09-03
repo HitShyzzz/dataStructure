@@ -1,6 +1,5 @@
 package leecode.每日一题;
 
-import java.awt.font.FontRenderContext;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -20,7 +19,6 @@ public class 带因子的二叉树 {
     }
 
     private static final int MOD = 1000000007;
-
     // 输入: arr = [2, 4, 5, 10]
     // 输出: 7
     // 解释: 可以得到这些二叉树: [2], [4], [5], [10], [4, 2, 2], [10, 2, 5], [10, 5, 2].
