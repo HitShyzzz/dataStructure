@@ -597,6 +597,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/最大交换方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/最好的扑克手牌.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/最少操作使得数组递增.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/每日一题/最长平衡子字符串.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/有效的字母异位词.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/检查两个字符串数组是否相等.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/检查两个字符串数组是否相等方法2.java" charset="UTF-8" />
@@ -611,6 +612,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/移动所有球到每个盒子所需要的最小操作.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/移动所有球到每个盒子所需要的最小操作方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/统计共同度过的日子数.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/leecode/每日一题/统计范围内的元音字符串数.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/网络信号最好的坐标.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/赢得比赛需要的最少训练时长.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/leecode/每日一题/重新排列单词间的空格.java" charset="UTF-8" />
@@ -660,6 +662,7 @@
     <file url="file://$PROJECT_DIR$/src/leecode/链表/链表的奇偶重排方法2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/Gale_Shapley.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/Hello.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/solution/HelloTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/StaticTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/Test1.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/solution/java8新特性/Car.java" charset="UTF-8" />
