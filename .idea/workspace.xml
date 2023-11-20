@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="3.2 commit 9">
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/数位和相等数对的最大和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/最大子数组和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -96,7 +96,7 @@
       <recent name="interview.常考面试题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.数位和相等数对的最大和">
+  <component name="RunManager" selected="Application.最大子数组和">
     <configuration name="统计范围内的元音字符串数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.统计范围内的元音字符串数" />
       <module name="dataStructure" />
@@ -110,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数位和相等数对的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.数位和相等数对的最大和" />
+    <configuration name="最大子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.最大子数组和" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -151,97 +151,6 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.Test" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩阵中的距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.dfs.矩阵中的距离" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="翻牌游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.美团.翻牌游戏" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.美团.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="到达终点路径个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.四399.到达终点路径个数" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.四399.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长奇偶子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.最长奇偶子数组" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串相乘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.字符串模拟.字符串相乘" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.字符串模拟.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二分图" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.并查集.二分图" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.并查集.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串转化后的各位数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.字符串转化后的各位数字之和" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -383,6 +292,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="数位和相等数对的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.数位和相等数对的最大和" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="咒语和药水的成功对数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.二分查找.咒语和药水的成功对数" />
       <module name="dataStructure" />
@@ -506,6 +428,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.字节.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="矩阵中的距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.dfs.矩阵中的距离" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.dfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -643,6 +578,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="翻牌游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.美团.翻牌游戏" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.剑指offer突击版.二分查找" />
       <module name="dataStructure" />
@@ -766,6 +714,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.TPLINK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="到达终点路径个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.四399.到达终点路径个数" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.四399.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -903,6 +864,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最长奇偶子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.最长奇偶子数组" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="从根到叶的二进制数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.从根到叶的二进制数之和" />
       <module name="dataStructure" />
@@ -1026,6 +1000,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.recur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串相乘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.字符串模拟.字符串相乘" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.字符串模拟.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1163,8 +1150,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二分图" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.并查集.二分图" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.并查集.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转化后的各位数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.字符串转化后的各位数字之和" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.数位和相等数对的最大和" />
+      <item itemvalue="Application.最大子数组和" />
       <item itemvalue="Application.K个元素最大和" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.NumArrayTest" />
@@ -1172,7 +1185,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.数位和相等数对的最大和" />
+        <item itemvalue="Application.最大子数组和" />
         <item itemvalue="Application.K个元素最大和" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.NumArrayTest" />
@@ -1546,7 +1559,8 @@
       <workItem from="1700056071235" duration="1283000" />
       <workItem from="1700150345589" duration="1586000" />
       <workItem from="1700224767061" duration="2361000" />
-      <workItem from="1700315812575" duration="4603000" />
+      <workItem from="1700315812575" duration="4990000" />
+      <workItem from="1700480813653" duration="730000" />
     </task>
     <task id="LOCAL-00024" summary="7.5">
       <created>1657093375181</created>
@@ -1951,17 +1965,6 @@
     <MESSAGE value="3.22 commit 8" />
     <MESSAGE value="3.22 commit 9" />
     <option name="LAST_COMMIT_MESSAGE" value="3.22 commit 9" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leecode/每日一题/数位和相等数对的最大和.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
