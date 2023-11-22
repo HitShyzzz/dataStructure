@@ -19,4 +19,8 @@ public class NumArrayTest {
         i = numArray.sumRange(0, 2);
         System.out.println(i);
     }
+
+    public String get(){
+        return "";
+    }
 }
