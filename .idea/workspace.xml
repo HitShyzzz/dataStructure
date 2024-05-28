@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="dfs+回文序列判断">
-      <change afterPath="$PROJECT_DIR$/src/leecode/多线程/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/完成所有任务所需的最小轮数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出可整除性得分最大的整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出数组中的Kor值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出数组中的Kor值方法2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出数组游戏的赢家.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出最长的超赞子字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出缺失的观测数据.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出缺失的观测数据方法2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出输掉零场或者一场比赛的玩家.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/最长交替子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/水壶问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/美丽塔I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/两数之和方法1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/分割回文串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/无重复字符的最长子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/无重复字符的最长子串方法1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/最长回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/正则表达式匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/精选TOP面试题/链表相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/贪心/完成所有任务的最少时间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution/多线程/PrintAandB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/每日温度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/每日一题/找出峰值.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +106,7 @@
       <recent name="leecode.拓扑排序" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.找出缺失的观测数据方法2">
+  <component name="RunManager" selected="Application.每日温度">
     <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.精选TOP面试题.无重复字符的最长子串" />
       <module name="dataStructure" />
@@ -156,19 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="找出缺失的观测数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出缺失的观测数据" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="找出缺失的观测数据方法2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出缺失的观测数据方法2" />
       <module name="dataStructure" />
@@ -182,99 +146,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="每日温度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.每日温度" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.Hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="找出数组中的Kor值方法2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出数组中的Kor值方法2" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="开密码锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.bfs.开密码锁" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.bfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="网格中的最小路径代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.动态规划.网格中的最小路径代价" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出输掉零场或者一场比赛的玩家" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出输掉零场或者一场比赛的玩家" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="四数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.四数之和" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="旋转矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.模拟.旋转矩阵" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.模拟.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="水果成篮" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.水果成篮" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串转化后的各位数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.字符串转化后的各位数字之和" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -416,6 +302,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="找出缺失的观测数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出缺失的观测数据" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="含有所有字符的最短子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.含有所有字符的最短子串" />
       <module name="dataStructure" />
@@ -546,6 +445,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="开密码锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.bfs.开密码锁" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="数组的均值分割" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.数学.数组的均值分割" />
       <module name="dataStructure" />
@@ -665,6 +577,19 @@
     </configuration>
     <configuration name="分割字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.动态规划.分割字符串" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="网格中的最小路径代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.动态规划.网格中的最小路径代价" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -806,6 +731,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="找出输掉零场或者一场比赛的玩家" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出输掉零场或者一场比赛的玩家" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="外星语言是否排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.外星语言是否排序" />
       <module name="dataStructure" />
@@ -929,6 +867,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="四数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.四数之和" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1066,6 +1017,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="旋转矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.模拟.旋转矩阵" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.模拟.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.精选TOP面试题.最长回文子串" />
       <module name="dataStructure" />
@@ -1185,6 +1149,19 @@
     </configuration>
     <configuration name="验证栈序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.验证栈序列" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="水果成篮" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.水果成篮" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -1326,6 +1303,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="字符串转化后的各位数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.字符串转化后的各位数字之和" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="美化数组的最少删除数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.美化数组的最少删除数" />
       <module name="dataStructure" />
@@ -1431,7 +1421,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.找出缺失的观测数据" />
+      <item itemvalue="Application.每日温度" />
       <item itemvalue="Application.找出缺失的观测数据方法2" />
       <item itemvalue="Application.找出数组中的Kor值方法2" />
       <item itemvalue="Application.无重复字符的最长子串" />
@@ -1439,8 +1429,8 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.每日温度" />
         <item itemvalue="Application.找出缺失的观测数据方法2" />
-        <item itemvalue="Application.找出缺失的观测数据" />
         <item itemvalue="Application.无重复字符的最长子串方法1" />
         <item itemvalue="Application.无重复字符的最长子串" />
         <item itemvalue="Application.找出数组中的Kor值方法2" />
@@ -1860,7 +1850,8 @@
       <workItem from="1716216722666" duration="602000" />
       <workItem from="1716381535180" duration="5124000" />
       <workItem from="1716548210406" duration="616000" />
-      <workItem from="1716812579974" duration="5209000" />
+      <workItem from="1716812579974" duration="6177000" />
+      <workItem from="1716899096170" duration="1527000" />
     </task>
     <task id="LOCAL-00024" summary="7.5">
       <created>1657093375181</created>
