@@ -1,5 +1,7 @@
 package leecode.Hot100;
 
+import solution.test.TestThread1;
+
 import java.util.PriorityQueue;
 
 /**

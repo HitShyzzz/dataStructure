@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c1c7bd-3557-4f9d-80ab-2570d9f44f95" name="Changes" comment="dfs+回文序列判断">
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/二叉树的最近公共祖先.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/二叉树的最近公共祖先方法2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/回文链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/数组中的第K个最大元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/最大正方形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/滑动窗口最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/统计全为1的正方形子矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/翻转二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/除自身以外数组的乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/除自身以外数组的乘积方法2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/乘积最大子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/乘积最大子数组方法2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/多数元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/多数元素方法2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/岛屿数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/打家劫舍.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/相交链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/Hot100/课程表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leecode/Hot100/数组中的第K个最大元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leecode/Hot100/数组中的第K个最大元素.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,20 +116,7 @@
       <recent name="leecode.dfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.数组中的第K个最大元素">
-    <configuration name="完全平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.完全平方数" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.Hot100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.乘积最大子数组方法2">
     <configuration name="除自身以外数组的乘积方法2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.Hot100.除自身以外数组的乘积方法2" />
       <module name="dataStructure" />
@@ -142,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="滑动窗口最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.滑动窗口最大值" />
+    <configuration name="乘积最大子数组方法2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.乘积最大子数组方法2" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +143,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="除自身以外数组的乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.除自身以外数组的乘积" />
+    <configuration name="课程表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.课程表" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.Hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="乘积最大子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.乘积最大子数组" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -181,90 +182,103 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="重新规划路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.重新规划路线" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出缺失和重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出缺失和重复的数字" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="距离阈值内邻居最少的城市" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.距离阈值内邻居最少的城市" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.整数反转" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer突击版.二分查找" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.剑指offer突击版.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="网格中的最小路径代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.动态规划.网格中的最小路径代价" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="变位词组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.变位词组" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="赢得比赛需要的最少训练时长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.赢得比赛需要的最少训练时长" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="矩形中的最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.矩形中的最大矩形" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最多删除一个字符得到回文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.最多删除一个字符得到回文" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转化后的各位数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.字符串转化后的各位数字之和" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长奇偶子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.最长奇偶子数组" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找出最长的超赞子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出最长的超赞子字符串" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="出租车的最大盈利" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.出租车的最大盈利" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,6 +392,19 @@
     </configuration>
     <configuration name="寻找重复数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.Hot100.寻找重复数" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.Hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="滑动窗口最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.滑动窗口最大值" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -519,6 +546,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="除自身以外数组的乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Hot100.除自身以外数组的乘积" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.Hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最长递增子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.Hot100.最长递增子序列" />
       <module name="dataStructure" />
@@ -638,6 +678,19 @@
     </configuration>
     <configuration name="分割数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.分割数组" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重新规划路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.重新规划路线" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -779,6 +832,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="找出缺失和重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出缺失和重复的数字" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="数组中出现次数超过一半的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.TPLINK.数组中出现次数超过一半的数字" />
       <module name="dataStructure" />
@@ -909,6 +975,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="距离阈值内邻居最少的城市" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.距离阈值内邻居最少的城市" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="四数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.四数之和" />
       <module name="dataStructure" />
@@ -1028,6 +1107,19 @@
     </configuration>
     <configuration name="确定两个字符串是否接近" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.每日一题.确定两个字符串是否接近" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.整数反转" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -1169,6 +1261,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer突击版.二分查找" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.剑指offer突击版.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="全局倒置与局部倒置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.栈.全局倒置与局部倒置" />
       <module name="dataStructure" />
@@ -1292,6 +1397,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.TPLINK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="网格中的最小路径代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.动态规划.网格中的最小路径代价" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1429,111 +1547,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="赢得比赛需要的最少训练时长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.赢得比赛需要的最少训练时长" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩形中的最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.矩形中的最大矩形" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最多删除一个字符得到回文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.剑指offer.最多删除一个字符得到回文" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串转化后的各位数字之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.字符串转化后的各位数字之和" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长奇偶子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.最长奇偶子数组" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出最长的超赞子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.找出最长的超赞子字符串" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="出租车的最大盈利" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.每日一题.出租车的最大盈利" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.乘积最大子数组" />
+      <item itemvalue="Application.乘积最大子数组方法2" />
+      <item itemvalue="Application.课程表" />
       <item itemvalue="Application.数组中的第K个最大元素" />
-      <item itemvalue="Application.滑动窗口最大值" />
-      <item itemvalue="Application.除自身以外数组的乘积" />
       <item itemvalue="Application.除自身以外数组的乘积方法2" />
-      <item itemvalue="Application.完全平方数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.乘积最大子数组方法2" />
+        <item itemvalue="Application.乘积最大子数组" />
+        <item itemvalue="Application.课程表" />
         <item itemvalue="Application.数组中的第K个最大元素" />
         <item itemvalue="Application.除自身以外数组的乘积方法2" />
-        <item itemvalue="Application.除自身以外数组的乘积" />
-        <item itemvalue="Application.滑动窗口最大值" />
-        <item itemvalue="Application.完全平方数" />
       </list>
     </recent_temporary>
   </component>
@@ -1968,7 +1995,8 @@
       <workItem from="1718288472103" duration="2434000" />
       <workItem from="1718362341238" duration="1815000" />
       <workItem from="1718415648176" duration="17983000" />
-      <workItem from="1718521823383" duration="11103000" />
+      <workItem from="1718521823383" duration="11322000" />
+      <workItem from="1718623616655" duration="11120000" />
     </task>
     <task id="LOCAL-00024" summary="7.5">
       <created>1657093375181</created>
