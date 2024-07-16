@@ -12,22 +12,20 @@ public class Main1 {
     public static void main(String[] args) {
         int[] nums = {1, 2, 5};
         int target = 11;
-        dfs(nums, target, 0);
+        dfs(nums, target, 0, 0);
         System.out.println(ans);
     }
 
-    public static void dfs(int[] nums, int target, int cnt) {
-        if (target < 0) {
+    public static void dfs(int[] nums, int target, int cnt, int index) {
+        if (target < 0 || index == nums.length) {
             return;
         }
         if (target == 0) {
             ans = Math.min(ans, cnt);
             return;
         }
-        for (int i = 0; i < nums.length; i++) {
-            dfs(nums, target - nums[i], cnt + 1);
+        for (int i = index; i < nums.length; i++) {
+            dfs(nums, target - nums[i], cnt + 1, i);
         }
     }
-
-
 }
