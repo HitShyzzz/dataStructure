@@ -1,7 +1,5 @@
 package leecode.Hot100;
 
-import java.awt.*;
-
 /**
  * @version: java version 18
  * @Author: Shy
